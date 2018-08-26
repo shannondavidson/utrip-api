@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shannondavidson/utrip-api/issues"
   },
-  "homepage": "https://github.com/shannondavidson/utrip-api#readme"
+  "homepage": "https://github.com/shannondavidson/utrip-api#readme",
+  "dependencies": {
+    "hapi": "^17.5.3",
+    "knex": "^0.15.2",
+    "pg": "^7.4.3"
+  }
 }
