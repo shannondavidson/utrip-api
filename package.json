@@ -1,0 +1,19 @@
+{
+  "name": "utrip-api",
+  "version": "1.0.0",
+  "description": "utrip-api is a simple api that makes it simple to see all the tournaments for my teams from my phone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannondavidson/utrip-api.git"
+  },
+  "author": "Shannon Davidson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannondavidson/utrip-api/issues"
+  },
+  "homepage": "https://github.com/shannondavidson/utrip-api#readme"
+}
